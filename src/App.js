@@ -4,7 +4,7 @@ function App() {
       <header>
         <a href="/">Amazonia</a>
       </header>
-      <main>list all of the products</main>
+      <main>list all the products</main>
     </div>
   );
 }
