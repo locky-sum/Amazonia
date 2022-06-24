@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <header>
-        <a href="/">Amazonia</a>
+        <a href="/">Anazom</a>
       </header>
       <main>list the total products</main>
     </div>
